@@ -1,1 +1,0 @@
-Understanding how to delete a file from repo.
